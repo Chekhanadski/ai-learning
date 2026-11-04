@@ -100,8 +100,6 @@ def get_request_texts_by_category(requests, category):
     return request_texts
 
 
-category = input("Enter category: ")
-
 request_texts = get_request_texts_by_category(requests, category)
 
 for request_text in request_texts:
