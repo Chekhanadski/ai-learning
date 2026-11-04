@@ -67,7 +67,7 @@ def average_rating(requests):
     return rating_sum / rating_count
 
 
-print(average_rating(requests))
+print(f"Average rating: {average_rating(requests)}")
 
 
 # Количество обращений выбранной категории
