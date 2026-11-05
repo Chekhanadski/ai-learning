@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "text": "hello",
+    "category": "general",
+    "status": "new",
+    "rating": 3
+  },
+  {
+    "id": 2,
+    "text": "не могу войти в аккаунт",
+    "category": "technical",
+    "status": "processed",
+    "rating": 2
+  },
+  {
+    "id": 3,
+    "text": "проблема с оплатой телефона",
+    "category": "billing",
+    "status": "new",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "text": "как украсть миллион",
+    "category": "general",
+    "status": "rejected",
+    "rating": 0
+  },
+  {
+    "id": 5,
+    "text": "получил ошибку 414",
+    "category": "technical",
+    "status": "processed",
+    "rating": 5
+  }
+]
